@@ -1,0 +1,28 @@
+[{
+    "name": "Suzuki Swift",
+    "category": {
+        "name": "budget",
+        "persons": 4,
+        "suitcases": 0,
+        "fee": 0
+    },
+    "image": "suzuki.jpg"
+}, {
+    "name": "Mazda 3",
+    "category": {
+        "name": "middle class",
+        "persons": 5,
+        "suitcases": 3,
+        "fee": 60
+    },
+    "image": "mazda.png"
+}, {
+    "name": "Citroën Grand C4 Picasso",
+    "category": {
+        "name": "minivan",
+        "persons": 7,
+        "suitcases": 4,
+        "fee": 105
+    },
+    "image": "citroen.jpg"
+}]
